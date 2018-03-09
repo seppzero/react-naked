@@ -1,0 +1,14 @@
+{
+  "name": "react-naked",
+  "version": "1.0.0",
+  "description": "Start from scratch like Adam and Eva",
+  "main": "index.js",
+  "scripts": {
+    "get-naked": "rm -rf ./*.jsx"
+  },
+  "keywords": [
+    "naked"
+  ],
+  "author": "seppzero@gmail.com",
+  "license": "ISC"
+}
