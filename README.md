@@ -1,5 +1,5 @@
 # react-naked
-High level Framework to start from scratch like Adam and Eva
+Next Generation Framework to start from scratch like Adam and Eva
 
 ## Run and get naked
 ```shell
